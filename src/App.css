@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+#title:hover {
+  color: rgb(23, 94, 248);
+}
+
+#infobox:hover {
+  transform: scale(1.05);
+  box-shadow: 10px 10px 20px grey;
+}
